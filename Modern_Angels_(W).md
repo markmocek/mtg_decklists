@@ -1,4 +1,4 @@
-### Nothing but Angels (Tribal)
+# Nothing but Angels (Tribal)
 1 Angel of Sanctions
 2 Angelic Accord
 2 Angelic Page
@@ -22,6 +22,6 @@
 4 Seraph Sanctuary
 3 Voice of All
 
-## Sideboard
+### Sideboard
 2 Sigil of the Empty Throne
 1 Wrath of God
