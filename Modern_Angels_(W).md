@@ -47,3 +47,7 @@
 2 Sigil of the Empty Throne
 
 1 Wrath of God
+
+### Misc.
+
+1 Brisela, Voice of Nightmares
