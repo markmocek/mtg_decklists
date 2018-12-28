@@ -142,7 +142,9 @@
 
 1 Volrath's Stronghold
 
-1 Westvale Abbey  Flip
+1 Westvale Abbey
+
+1 Ormendahl, Profane Prince
 
 1 Liliana's Contract
 
