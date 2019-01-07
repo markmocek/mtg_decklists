@@ -1,4 +1,4 @@
-# Boros Angels (Standard)
+# [Boros Angels (Standard)](https://www.mtggoldfish.com/archetype/standard-boros-angels-60565#paper)
 
 4	Adanto Vanguard
 
