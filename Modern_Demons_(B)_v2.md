@@ -1,4 +1,4 @@
-# Demon Tribal
+# [Demon Tribal](http://tappedout.net/mtg-decks/tribal-demons-1/)
 
 4 Bloodgift Demon
 
