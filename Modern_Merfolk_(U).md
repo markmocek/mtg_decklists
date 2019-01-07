@@ -1,4 +1,4 @@
-# Merfolk
+# [Best Merfolk Deck](http://tappedout.net/mtg-decks/best-merfolk-deck/)
 
 4 Cursecatcher
 
@@ -53,3 +53,8 @@
 3 Relic of Progenitus
 
 2 Tidebinder Mage
+
+### Maybeboard
+1 Spell Pierce
+
+1 Vapor Snag
