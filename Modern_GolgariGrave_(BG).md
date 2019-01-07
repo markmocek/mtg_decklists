@@ -1,4 +1,4 @@
-# Golgari Graveyard Play
+# [Golgari Graveyard Play](http://tappedout.net/mtg-decks/golgari-graveyard-modern/)
 
 4 Boneyard Wurm
 
