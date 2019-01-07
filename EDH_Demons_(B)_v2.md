@@ -1,4 +1,4 @@
-# Tribal Demons
+# [Power and Ruin - Demon Tribal](http://tappedout.net/mtg-decks/power-and-ruin-demon-tribal/)
 
 1 Abhorrent Overlord
 
@@ -155,3 +155,28 @@
 1 Phyrexian Reclamation
 
 1 Rite of Belzenlok
+
+### Maybeboard
+1 Endrek Sahr, Master Breeder
+
+1 Grim Haruspex
+
+1 Liege of the Pit
+
+1 Mindslicer
+
+1 Pawn of Ulamog
+
+1 Sifter of Skulls
+
+1 Vindictive Lich
+
+1 Barter in Blood
+
+1 Innocent Blood
+
+1 Torment of Hailfire
+
+1 Hero's Downfall
+
+1 Charcoal Diamond
