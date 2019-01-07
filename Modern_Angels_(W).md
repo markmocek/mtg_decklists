@@ -1,4 +1,4 @@
-# Nothing but Angels (Tribal)
+# [Nothing but Angels (Tribal)](https://deckstats.net/decks/72441/721953-nothing-but-angels-tribal-/en)
 1 Angel of Sanctions
 
 2 Angelic Accord
