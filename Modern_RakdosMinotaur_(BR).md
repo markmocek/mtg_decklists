@@ -69,7 +69,7 @@
 
 4 Inquisition of Kozilek
 
-#### Sideboard (15)
+### Sideboard (15)
 2 Anger of the Gods
 
 2 Damping Sphere
@@ -84,7 +84,7 @@
 
 2 Thoughtseize
 
-#### Maybeboard
+### Maybeboard
 1 Collective Brutality
 
 1 Dreadbore
