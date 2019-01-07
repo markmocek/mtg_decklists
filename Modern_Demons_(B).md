@@ -1,4 +1,4 @@
-# Demon tribal (Modern)
+# [Demon tribal (Modern)](https://deckstats.net/decks/32878/839951-demon-tribal/en)
 
 2 Archfiend of Depravity
 
