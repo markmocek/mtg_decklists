@@ -57,3 +57,7 @@
 1 Contagion Engine
 
 1 Power Conduit
+
+```
+Multiplayer Deck
+```
