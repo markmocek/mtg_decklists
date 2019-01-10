@@ -1,38 +1,24 @@
 # Tokens
+Serf
 
-### 0/0
-0/1 Serf
+Harpy
 
+Human Cleric
 
-### 1/1
-1/1 Harpy
+Cleric
 
-1/1 Human Cleric
+Human
 
-1/1 Cleric
+Elemental
 
-1/1 Human
+Zombie
 
-1/1 Elemental
+Beast
 
-### 2/2
-2/2 Zombie
+Centaur
 
-### 3/3
-3/3 Beast
+Angel
 
-3/3 Centaur
+Demon
 
-### 4/4
-4/4 Angel
-
-### 5/5
-5/5 Demon
-
-5/5 Wurm
-
-### 6/6
-
-### 7/7
-
-### 8/8
+Wurm
