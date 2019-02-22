@@ -1,4 +1,4 @@
-# [Competitive Modern Mill](http://tappedout.net/mtg-decks/competitive-modern-mill-2/)\
+# [Competitive Modern Mill](http://tappedout.net/mtg-decks/competitive-modern-mill-2/)
 
 4 Hedron Crab
 
@@ -53,7 +53,7 @@
 
 
 
-# [Mill by exile](http://tappedout.net/mtg-decks/mill-by-exile/)\
+# [Mill by exile](http://tappedout.net/mtg-decks/mill-by-exile/)
 
 4 Fog Bank
 
