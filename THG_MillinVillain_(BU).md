@@ -107,3 +107,5 @@
 1 Circu, Dimir Lobotomist
 
 1 Mirko Vosk, Mind Drinker
+
+1 Crypt Incursion
