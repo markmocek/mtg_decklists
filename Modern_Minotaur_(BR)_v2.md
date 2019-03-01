@@ -1,34 +1,44 @@
-# [Me So Horny](http://tappedout.net/mtg-decks/me-so-horny-1/)
-4 Felhide Petrifier
+# [Amonkhet Minotaurs](http://tappedout.net/mtg-decks/amonkhet-minotaurs/)
 
-4 Kragma Warcaller
+4 Ahn-Crop Crasher
+
+3 Bloodrage Brawler
 
 4 Metallic Mimic
 
-1 Mogis, God of Slaughter
+2 Minotaur Sureshot
 
-2 Neheb, the Worthy
+4 Neheb, the Worthy
 
-4 Rageblood Shaman
+4 Ondu Champion
 
-4 Ragemonger
+4 Foreboding Ruins
 
-1 Bontu's Monument
+3 Hanweir Battlements
 
-1 Hazoret's Monument
+7 Mountain
 
-4 Semblance Anvil
+3 Smoldering Marsh  
 
-3 Thornbite Staff
+6 Swamp
 
-1 Vanquisher's Banner
+1 Lay Bare the Heart
 
-4 Dragonskull Summit
+4 Supernatural Stamina
 
-11 Mountain
+4 Throne of the God-Pharaoh
 
-2 Mystifying Maze
+4 Unlicensed Disintegration  
 
-7 Swamp
+3 Zulaport Cutthroat
 
-3 Lightning Volley
+### Sideboard
+3 Chandra, Flamecaller
+
+2 Fatal Push
+
+3 Hour of Glory
+
+3 Lay Bare the Heart
+
+4 Magma Spray
