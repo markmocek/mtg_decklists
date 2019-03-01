@@ -1,4 +1,4 @@
-[An Answer to the Prayers](http://tappedout.net/mtg-decks/an-answer-to-the-prayers/)
+# [An Answer to the Prayers](http://tappedout.net/mtg-decks/an-answer-to-the-prayers/)
 
 3 Cryptbreaker
 
