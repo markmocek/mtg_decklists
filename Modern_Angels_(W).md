@@ -1,53 +1,61 @@
-# [Nothing but Angels (Tribal)](https://deckstats.net/decks/72441/721953-nothing-but-angels-tribal-/en)
-1 Angel of Sanctions
+# [Devotion to White Angels](http://tappedout.net/mtg-decks/devotion-to-white-angels/)
 
-2 Angelic Accord
+1 Akroma, Angel of Wrath  
 
-2 Angelic Page
+1 Avacyn, Angel of Hope  
 
-2 Archangel of Thune
+1 Bruna, the Fading Light  
 
-2 Archangel of Tithes
+1 Gisela, the Broken Blade  
 
-3 Authority of the Consuls
+1 Iona, Shield of Emeria  
 
-2 Baneslayer Angel
+1 Lyra Dawnbringer  
 
-1 Bruna, the Fading Light
+3 Thalia's Lancers  
 
-2 Celestial Flare
+4 Wall of Omens  
 
-2 Dawn Charm
+3 Weathered Wayfarer
 
-2 Day of Judgment
+4 Wrath of God  
 
-2 Defy Death
+1 Cavern of Souls
 
-3 Emancipation Angel
+2 Emeria, The Sky Ruin  
 
-2 Entreat the Angels
+1 Field of Ruin
 
-3 Faith's Shield
+3 Nykthos, Shrine to Nyx  
 
-1 Gisela, the Broken Blade
+16 Plains  
 
-1 Linvala, Keeper of Silence
+1 Banishing Light  
 
-2 Path to Exile
+1 Oblivion Ring  
 
-17 Plains
+1 Quarantine Field  
 
-1 Riot Control
+4 Runed Halo
 
-4 Seraph Sanctuary
+1 Godsend  
 
-3 Voice of All
+1 Mana Tithe  
+
+4 Path to Exile  
+
+1 Gideon, Ally of Zendikar  
+
+3 Gideon of the Trials  
 
 ### Sideboard
-2 Sigil of the Empty Throne
 
-1 Wrath of God
+4 Leyline of Sanctity
 
-### Misc.
+3 Nevermore  
 
-1 Brisela, Voice of Nightmares
+3 Rest in Peace
+
+3 Stony Silence
+
+2 Terminus  
