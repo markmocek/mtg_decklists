@@ -108,4 +108,6 @@
 
 1 Mirko Vosk, Mind Drinker
 
+1 Duskmantle Guildmage
+
 1 Crypt Incursion
