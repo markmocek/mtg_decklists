@@ -111,3 +111,7 @@
 1 Duskmantle Guildmage
 
 1 Crypt Incursion
+
+1 Manic Scribe
+
+1 Psychic Corrosion
